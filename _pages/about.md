@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Personal Achievements"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About Me
+# Academic and Professional Interests
 
 - Something
 - Something
@@ -15,6 +15,7 @@ redirect_from:
 
 # Mandarin Speaking Competitions
 
+[![2021 Dr. Sun Yat-sen Memorial Hall Foreign Students Mandarin Public Speaking Competition Winner](https://img.youtube.com/vi/Dp3TcUO1-00/maxresdefault.jpg)](https://www.youtube.com/watch?v=Dp3TcUO1-00)
 
 # Related News Articles
 
