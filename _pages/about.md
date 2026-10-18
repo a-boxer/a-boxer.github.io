@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,15 +13,19 @@ redirect_from:
 - Something
 - Something
 
-# Mandarin Speaking Competitions
+# External Links - Mandarin Speaking Competitions
 
+#### Adam Boxer - A Reflection on the News/2021 Dr. Sun Yat-sen Memorial Hall Foreign Students Mandarin Public Speaking Competition Winner
 [![2021 Dr. Sun Yat-sen Memorial Hall Foreign Students Mandarin Public Speaking Competition Winner](https://img.youtube.com/vi/Dp3TcUO1-00/maxresdefault.jpg)](https://www.youtube.com/watch?v=Dp3TcUO1-00)
 
-# Related News Articles
+  ##### Related News Articles
+  I was included in various Taiwan media after winning this speaking competition back in 2021. Here are a few links:
+  - 
 
-I was included in various Taiwan media after winning the Dr. Sun Yat-sen Memorial Hall competition back in 2021. Here are a few links:
+#### Adam Boxer - A Suprising Event Living in Taiwan
+[![2023 Dr. Sun Yat-sen Memorial Hall Foreign Students Mandarin Public Speaking Competition Merit Award](https://img.youtube.com/vi/UfiEDIs35C0/maxresdefault.jpg)](https://www.youtube.com/watch?v=UfiEDIs35C0)
 
-
+  
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
