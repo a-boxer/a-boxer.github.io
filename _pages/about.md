@@ -7,20 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-# Academic and Professional Interests
------
-- Something
-- Something
-- Something
-
 # External Links - Mandarin Speaking Competitions
 -----
 [![2021 Dr. Sun Yat-sen Memorial Hall Foreign Students Mandarin Public Speaking Competition Winner](https://img.youtube.com/vi/Dp3TcUO1-00/maxresdefault.jpg)](https://www.youtube.com/watch?v=Dp3TcUO1-00)
 #### Adam Boxer - A Reflection on the News/2021 Dr. Sun Yat-sen Memorial Hall Foreign Students Mandarin Public Speaking Competition Winner
 
 ### Related News Articles
-I was included in various Taiwan media after winning this speaking competition back in 2021. Here are a few links:
-
   - [Taiwan News: American NTU student wins Mandarin speech contest in Taiwan](https://www.taiwannews.com.tw/news/4348254)
   - [Taipei Times: US student places first in Mandarin speaking contest](https://www.taipeitimes.com/News/taiwan/archives/2021/11/18/2003768079)
   - [OCAC News: American student wins Mandarin public speaking contest in Taipei](https://ocacnews.net/article/295770)
