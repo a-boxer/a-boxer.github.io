@@ -27,7 +27,7 @@ author:
   bio              : "Capital Markets Analyst at Federal Reserve Bank of Philadelphia"
   location         : "Philadelphia, PA"
   uri              : # URL
-  email            : "adamboxer2@gmail.com" 
+  #email            : "adamboxer2@gmail.com" 
 
 # Publication Category - The following the list of publication categories and their headings
 #publication_category:
